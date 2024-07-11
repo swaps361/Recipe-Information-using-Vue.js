@@ -107,7 +107,7 @@ export default {
 </script>
 
 <style>
-/* Your styles from the original CSS */
+
 body {
     font-family: Arial, sans-serif;
     background-image: url('./assets/food.jpg'); /* Updated path */
